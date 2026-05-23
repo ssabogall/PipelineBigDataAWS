@@ -1,0 +1,6 @@
+id,event_name,year,country,category,importance_score
+1,French Revolution,1789,France,Revolution,9.8
+2,Moon Landing,1969,USA,Space,10.0
+3,Fall of Berlin Wall,1989,Germany,Politics,9.5
+4,Industrial Revolution,1760,England,Industry,9.7
+5,World War II,1939,Global,War,10.0
