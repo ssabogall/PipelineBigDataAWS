@@ -4,3 +4,23 @@ id,event_name,year,country,category,importance_score
 3,Fall of Berlin Wall,1989,Germany,Politics,9.5
 4,Industrial Revolution,1760,England,Industry,9.7
 5,World War II,1939,Global,War,10.0
+6,Fall of the Roman Empire,476,Italy,Empire,9.8
+7,Discovery of America by Columbus,1492,Spain,Exploration,9.7
+8,French Revolution,1789,France,Revolution,9.9
+9,American Declaration of Independence,1776,United States,Politics,9.5
+10,Industrial Revolution,1760,United Kingdom,Technology,9.8
+11,World War I Begins,1914,Austria-Hungary,War,9.6
+12,World War II Ends,1945,Germany,War,10.0
+13,Moon Landing Apollo 11,1969,United States,Science,9.7
+14,Fall of the Berlin Wall,1989,Germany,Politics,9.4
+15,Signing of the Magna Carta,1215,United Kingdom,Law,9.2
+16,Russian Revolution,1917,Russia,Revolution,9.5
+17,Black Death Pandemic,1347,Europe,Health,9.3
+18,Independence of India,1947,India,Politics,9.1
+19,September 11 Attacks,2001,United States,Terrorism,9.4
+20,COVID-19 Pandemic Declared,2020,Global,Health,9.9
+21,Invention of the Printing Press,1440,Germany,Technology,9.6
+22,Signing of the United Nations Charter,1945,United States,Diplomacy,9.3
+23,First Powered Flight by Wright Brothers,1903,United States,Technology,9.4
+24,Chernobyl Nuclear Disaster,1986,Ukraine,Disaster,9.0
+25,Nelson Mandela Becomes President,1994,South Africa,Politics,8.9

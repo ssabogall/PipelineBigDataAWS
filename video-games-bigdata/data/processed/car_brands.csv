@@ -1,0 +1,16 @@
+brand,country,rating,sales_2025,electric_model
+Toyota,Japan,9.5,850000,Yes
+Tesla,USA,9.8,620000,Yes
+BMW,Germany,9.2,410000,Yes
+Ford,USA,8.7,500000,Yes
+Chevrolet,USA,8.5,430000,No
+Hyundai,South Korea,8.9,390000,Yes
+Mercedes-Benz,Germany,9.4,370000,Yes
+Kia,South Korea,8.6,320000,Yes
+Ferrari,Italy,9.9,15000,No
+Lamborghini,Italy,9.7,9000,No
+Audi,Germany,9.1,350000,Yes
+Honda,Japan,9.0,470000,Yes
+Nissan,Japan,8.4,310000,Yes
+Porsche,Germany,9.6,120000,Yes
+Volvo,Sweden,9.3,180000,Yes
