@@ -1,15 +1,15 @@
 {
-    "city": "Medellín",
+    "city": "Pereira",
     "country": "CO",
-    "temperature": 26.25,
-    "feels_like": 26.25,
-    "temp_min": 25.42,
-    "temp_max": 26.82,
-    "humidity": 56,
-    "pressure": 1010,
+    "temperature": 20.07,
+    "feels_like": 20.27,
+    "temp_min": 19.07,
+    "temp_max": 20.82,
+    "humidity": 82,
+    "pressure": 1011,
     "weather": "Clouds",
-    "description": "scattered clouds",
-    "wind_speed": 3.09,
-    "cloudiness": 40,
-    "timestamp": "2026-05-24 11:54:32"
+    "description": "overcast clouds",
+    "wind_speed": 0.45,
+    "cloudiness": 100,
+    "timestamp": "2026-05-26 19:33:58"
 }
